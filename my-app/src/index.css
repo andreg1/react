@@ -49,3 +49,10 @@ body {
     margin-left: 20px;
   }
   
+  button.selected{
+    font-weight:bold;
+  }
+
+  .winner{
+    background:green;
+  }
